@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @BasedAlex
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me alexbroseph@mail.ru
+Всем привет. Меня зовут Алексей и я начинающий фронтендер на стаке React+Redux. 
+
+Из дополнительных технологий освоил typescript, redux toolkit, sass, tailwindcss и многие другие. 
+
 
 <!---
 BasedAlex/BasedAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
