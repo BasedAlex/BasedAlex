@@ -1,4 +1,4 @@
-Так называемый го... извини, я так не могу...
+Write clean and efficient Go code.
 
 
 <!---
